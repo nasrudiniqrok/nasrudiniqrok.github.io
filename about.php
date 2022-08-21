@@ -66,260 +66,102 @@ include "layouts/header.php";
       </div>
     </div>
     <!-- About End -->
-
-    <!-- Facilities Start -->
-    <div class="container-fluid pt-5">
-      <div class="container pb-3">
-        <div class="row">
-          <div class="col-lg-4 col-md-6 pb-1">
-            <div
-              class="d-flex bg-light shadow-sm border-top rounded mb-4"
-              style="padding: 30px"
-            >
-              <i
-                class="flaticon-050-fence h1 font-weight-normal text-primary mb-3"
-              ></i>
-              <div class="pl-4">
-                <h4>Play Ground</h4>
-                <p class="m-0">
-                  Kasd labore kasd et dolor est rebum dolor ut, clita dolor vero
-                  lorem amet elitr vero...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 pb-1">
-            <div
-              class="d-flex bg-light shadow-sm border-top rounded mb-4"
-              style="padding: 30px"
-            >
-              <i
-                class="flaticon-022-drum h1 font-weight-normal text-primary mb-3"
-              ></i>
-              <div class="pl-4">
-                <h4>Music and Dance</h4>
-                <p class="m-0">
-                  Kasd labore kasd et dolor est rebum dolor ut, clita dolor vero
-                  lorem amet elitr vero...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 pb-1">
-            <div
-              class="d-flex bg-light shadow-sm border-top rounded mb-4"
-              style="padding: 30px"
-            >
-              <i
-                class="flaticon-030-crayons h1 font-weight-normal text-primary mb-3"
-              ></i>
-              <div class="pl-4">
-                <h4>Arts and Crafts</h4>
-                <p class="m-0">
-                  Kasd labore kasd et dolor est rebum dolor ut, clita dolor vero
-                  lorem amet elitr vero...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 pb-1">
-            <div
-              class="d-flex bg-light shadow-sm border-top rounded mb-4"
-              style="padding: 30px"
-            >
-              <i
-                class="flaticon-017-toy-car h1 font-weight-normal text-primary mb-3"
-              ></i>
-              <div class="pl-4">
-                <h4>Safe Transportation</h4>
-                <p class="m-0">
-                  Kasd labore kasd et dolor est rebum dolor ut, clita dolor vero
-                  lorem amet elitr vero...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 pb-1">
-            <div
-              class="d-flex bg-light shadow-sm border-top rounded mb-4"
-              style="padding: 30px"
-            >
-              <i
-                class="flaticon-025-sandwich h1 font-weight-normal text-primary mb-3"
-              ></i>
-              <div class="pl-4">
-                <h4>Healthy food</h4>
-                <p class="m-0">
-                  Kasd labore kasd et dolor est rebum dolor ut, clita dolor vero
-                  lorem amet elitr vero...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 pb-1">
-            <div
-              class="d-flex bg-light shadow-sm border-top rounded mb-4"
-              style="padding: 30px"
-            >
-              <i
-                class="flaticon-047-backpack h1 font-weight-normal text-primary mb-3"
-              ></i>
-              <div class="pl-4">
-                <h4>Educational Tour</h4>
-                <p class="m-0">
-                  Kasd labore kasd et dolor est rebum dolor ut, clita dolor vero
-                  lorem amet elitr vero...
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Facilities Start -->
-
-    <!-- Team Start -->
+    
+    <!-- Blog Start -->
     <div class="container-fluid pt-5">
       <div class="container">
         <div class="text-center pb-2">
           <p class="section-title px-5">
-            <span class="px-2">Gurumu</span>
+            <span class="px-2">Artikel Kami</span>
           </p>
-          <h1 class="mb-4">Ketemu Guru Kamu</h1>
+          <h1 class="mb-4">Kegiatan Kami</h1>
         </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-3 text-center team mb-5">
-            <div
-              class="position-relative overflow-hidden mb-4"
-              style="border-radius: 100%"
-            >
-              <img class="img-fluid w-100" src="img/team-1.jpg" alt="" />
-              <div
-                class="team-social d-flex align-items-center justify-content-center w-100 h-100 position-absolute"
-              >
-                <a
-                  class="btn btn-outline-light text-center mr-2 px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a
-                  class="btn btn-outline-light text-center mr-2 px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a
-                  class="btn btn-outline-light text-center px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
+        <div class="row pb-3">
+          <div class="col-lg-4 mb-4">
+            <div class="card border-0 shadow-sm mb-2">
+              <img class="card-img-top mb-2" src="img/blog-1.jpg" alt="" />
+              <div class="card-body bg-light text-center p-4">
+                <h4 class="">Diam amet eos at no eos</h4>
+                <div class="d-flex justify-content-center mb-3">
+                  <small class="mr-3"
+                    ><i class="fa fa-user text-primary"></i> Admin</small
+                  >
+                  <small class="mr-3"
+                    ><i class="fa fa-folder text-primary"></i> Web Design</small
+                  >
+                  <small class="mr-3"
+                    ><i class="fa fa-comments text-primary"></i> 15</small
+                  >
+                </div>
+                <p>
+                  Sed kasd sea sed at elitr sed ipsum justo, sit nonumy diam
+                  eirmod, duo et sed sit eirmod kasd clita tempor dolor stet
+                  lorem. Tempor ipsum justo amet stet...
+                </p>
+                <a href="" class="btn btn-primary px-4 mx-auto my-2"
+                  >Selengkapnya</a
+                >
               </div>
             </div>
-            <h4>Julia Smith</h4>
-            <i>Music Teacher</i>
           </div>
-          <div class="col-md-6 col-lg-3 text-center team mb-5">
-            <div
-              class="position-relative overflow-hidden mb-4"
-              style="border-radius: 100%"
-            >
-              <img class="img-fluid w-100" src="img/team-2.jpg" alt="" />
-              <div
-                class="team-social d-flex align-items-center justify-content-center w-100 h-100 position-absolute"
-              >
-                <a
-                  class="btn btn-outline-light text-center mr-2 px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a
-                  class="btn btn-outline-light text-center mr-2 px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a
-                  class="btn btn-outline-light text-center px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
+          <div class="col-lg-4 mb-4">
+            <div class="card border-0 shadow-sm mb-2">
+              <img class="card-img-top mb-2" src="img/blog-2.jpg" alt="" />
+              <div class="card-body bg-light text-center p-4">
+                <h4 class="">Diam amet eos at no eos</h4>
+                <div class="d-flex justify-content-center mb-3">
+                  <small class="mr-3"
+                    ><i class="fa fa-user text-primary"></i> Admin</small
+                  >
+                  <small class="mr-3"
+                    ><i class="fa fa-folder text-primary"></i> Web Design</small
+                  >
+                  <small class="mr-3"
+                    ><i class="fa fa-comments text-primary"></i> 15</small
+                  >
+                </div>
+                <p>
+                  Sed kasd sea sed at elitr sed ipsum justo, sit nonumy diam
+                  eirmod, duo et sed sit eirmod kasd clita tempor dolor stet
+                  lorem. Tempor ipsum justo amet stet...
+                </p>
+                <a href="" class="btn btn-primary px-4 mx-auto my-2"
+                  >Selengkapnya</a
+                >
               </div>
             </div>
-            <h4>Jhon Doe</h4>
-            <i>Language Teacher</i>
           </div>
-          <div class="col-md-6 col-lg-3 text-center team mb-5">
-            <div
-              class="position-relative overflow-hidden mb-4"
-              style="border-radius: 100%"
-            >
-              <img class="img-fluid w-100" src="img/team-3.jpg" alt="" />
-              <div
-                class="team-social d-flex align-items-center justify-content-center w-100 h-100 position-absolute"
-              >
-                <a
-                  class="btn btn-outline-light text-center mr-2 px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a
-                  class="btn btn-outline-light text-center mr-2 px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a
-                  class="btn btn-outline-light text-center px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
+          <div class="col-lg-4 mb-4">
+            <div class="card border-0 shadow-sm mb-2">
+              <img class="card-img-top mb-2" src="img/blog-3.jpg" alt="" />
+              <div class="card-body bg-light text-center p-4">
+                <h4 class="">Diam amet eos at no eos</h4>
+                <div class="d-flex justify-content-center mb-3">
+                  <small class="mr-3"
+                    ><i class="fa fa-user text-primary"></i> Admin</small
+                  >
+                  <small class="mr-3"
+                    ><i class="fa fa-folder text-primary"></i> Web Design</small
+                  >
+                  <small class="mr-3"
+                    ><i class="fa fa-comments text-primary"></i> 15</small
+                  >
+                </div>
+                <p>
+                  Sed kasd sea sed at elitr sed ipsum justo, sit nonumy diam
+                  eirmod, duo et sed sit eirmod kasd clita tempor dolor stet
+                  lorem. Tempor ipsum justo amet stet...
+                </p>
+                <a href="" class="btn btn-primary px-4 mx-auto my-2"
+                  >Selengkapnya</a
+                >
               </div>
             </div>
-            <h4>Mollie Ross</h4>
-            <i>Dance Teacher</i>
-          </div>
-          <div class="col-md-6 col-lg-3 text-center team mb-5">
-            <div
-              class="position-relative overflow-hidden mb-4"
-              style="border-radius: 100%"
-            >
-              <img class="img-fluid w-100" src="img/team-4.jpg" alt="" />
-              <div
-                class="team-social d-flex align-items-center justify-content-center w-100 h-100 position-absolute"
-              >
-                <a
-                  class="btn btn-outline-light text-center mr-2 px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a
-                  class="btn btn-outline-light text-center mr-2 px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a
-                  class="btn btn-outline-light text-center px-0"
-                  style="width: 38px; height: 38px"
-                  href="#"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
-              </div>
-            </div>
-            <h4>Donald John</h4>
-            <i>Art Teacher</i>
           </div>
         </div>
       </div>
     </div>
-    <!-- Team End -->
+    <!-- Blog End -->
 
 <?php
 include "layouts/footer.php";
