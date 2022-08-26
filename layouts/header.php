@@ -43,7 +43,7 @@
           class="navbar-brand font-weight-bold text-secondary"
           style="font-size: 50px"
         >
-          <i class="flaticon-043-teddy-bear"></i>
+          <i class="flaticon-032-book"></i>
           <span class="text-primary">GuruKu</span>
         </a>
         <button
@@ -66,7 +66,7 @@
             <a href="gallery.php" class="nav-item nav-link">Album</a>
             <a href="contact.php" class="nav-item nav-link">Kontak</a>
           </div>
-          <a href="" class="btn btn-primary px-4">Pesan Kelas</a>
+          <a href="https://api.whatsapp.com/send?phone=62895366884004&text=Halo%20Admin!%0ASaya%20ingin%20daftar%20les%20privat%20Anda" class="btn btn-primary px-4">Pesan Kelas</a>
         </div>
       </nav>
     </div>

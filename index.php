@@ -411,6 +411,51 @@ include "layouts/header.php";
     </div>
     <!-- Team End -->
 
+    <!-- Berlangganan Awal -->
+    <!-- <div class="container-fluid pt-5">
+      <div class="container">
+        <div class="text-center pb-2">
+          <h1 class="mb-4">Cara Berlanggan Les Privat</h1>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 mb-5">
+            <div class="card border-0 bg-light shadow-sm pb-2">
+              <img class="card-img-top mb-2" src="img/fomulir.jpg" alt="" />
+              <div class="card-body">
+                <h4 class="card-title">1. Lengkapi formulir pemesanan</h4>
+                <p class="card-text">
+                Lengkapi formulir untuk melakukan pemesanan
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-5">
+            <div class="card border-0 bg-light shadow-sm pb-2">
+              <img class="card-img-top mb-2" src="img/bayar.jpg" alt="" />
+              <div class="card-body">
+                <h4 class="card-title">2. Pembayaran</h4>
+                <p class="card-text">
+                Silakan lakukan pembayaran sesuai tagihan
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-5">
+            <div class="card border-0 bg-light shadow-sm pb-2">
+              <img class="card-img-top mb-2" src="img/guru.jpg" alt="" />
+              <div class="card-body">
+                <h4 class="card-title">3. Sesi belajar</h4>
+                <p class="card-text">
+                Proses pembelajaran privat dengan pengajar dimulai
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+    <!-- Berlangganan Akhir -->
+
 <?php
 include "layouts/footer.php";
 ?>
